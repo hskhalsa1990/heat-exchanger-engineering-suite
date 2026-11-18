@@ -1,0 +1,7 @@
+metric,value
+Q_kW_ShellTube,673.0
+Q_kW_Plate,806.0
+Q_kW_Finned,430.0
+A_ShellTube_m2,23.56
+U_design_W_m2K,800.0
+Rf_crit_m2K_W,0.00018

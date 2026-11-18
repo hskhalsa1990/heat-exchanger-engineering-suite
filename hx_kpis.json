@@ -1,0 +1,11 @@
+{
+  "generated": "2026-11-18T16:41:04",
+  "unit": "Shell-Tube HX",
+  "Q_design_kW": 673,
+  "A_m2": 23.56,
+  "U_design_W_m2K": 800,
+  "eps": 0.68,
+  "Rf_crit_m2K_W": 0.00018,
+  "lifecycle_10y_loss_MWh": 5239.2,
+  "typical_cleaning_interval_days": 60
+}
